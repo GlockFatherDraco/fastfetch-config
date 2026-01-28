@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -24,7 +23,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -36,7 +34,6 @@ curl -fsSL https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/r
 
 </div>
 
----
 
 <div align="center">
 

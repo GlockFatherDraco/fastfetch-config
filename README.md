@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fastfetch Config
+# [fastfetch](https://github.com/fastfetch-cli/fastfetch) config
 
 *Clean and minimal terminal*
 

@@ -27,8 +27,8 @@
 <div align="center">
 
 # Config Installation
+-# Linux/mac
 ```bash
-# Linux / macOS
 curl -fsSL https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc -o ~/.config/fastfetch/config.jsonc
 ```
 
